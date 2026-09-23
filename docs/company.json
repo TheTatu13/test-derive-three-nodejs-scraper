@@ -1,0 +1,11 @@
+{
+  "id": "77777777",
+  "company": "TEST DERIVE THREE SRL",
+  "brand": "TestDeriveThree",
+  "status": "activ",
+  "location": ["Bucuresti"],
+  "website": ["https://example.com"],
+  "career": ["https://example.com/careers"],
+  "scraperFile": "https://github.com/TheTatu13/test-derive-three-nodejs-scraper/actions/workflows/scrape.yml",
+  "ownJobUrlPrefix": "https://example.com/jobs/"
+}
